@@ -2,6 +2,8 @@
 #include <unistd.h>
 #include <fcntl.h>
 
+// README
+
 int main()
 {
 // Menyiapkan string yang akan ditulis ke dummy.txt

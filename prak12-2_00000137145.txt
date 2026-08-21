@@ -1,5 +1,5 @@
 // Terminal Output
-
+README
 marvelvg@Marvel:~/prak12-2$ dd if=/dev/zero of=source.bin bs=1 c
 ount=2097152
 2097152+0 records in

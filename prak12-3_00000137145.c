@@ -30,5 +30,5 @@ int main(int argc, char *argv[]){
 	if((src=mmap(0, len, PROT_READ, MAP_SHARED, fdin, 0)) == (void *)-1) err_quit("mmap");
 	printf("%s", src);
 	close(fdin);
-	munmap(src,len);
+	munmap(src, len);
 }

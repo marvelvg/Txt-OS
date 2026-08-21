@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-
+// README
 void err_quit(char *msg)
 {
 	perror(msg);
